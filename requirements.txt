@@ -8,3 +8,4 @@ PyPDF2
 numpy
 faiss-cpu
 st-files-connection
+sentence_transformers
