@@ -1,0 +1,10 @@
+altair
+pandas
+streamlit==1.32.2
+openai
+python-dotenv
+google-cloud-storage
+PyPDF2
+numpy
+faiss-cpu
+st-files-connection
